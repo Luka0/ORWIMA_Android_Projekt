@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8016862768",
+    "project_id": "chessgame-fbe3d",
+    "storage_bucket": "chessgame-fbe3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8016862768:android:1658f1c3d360b6455257f5",
+        "android_client_info": {
+          "package_name": "com.example.chessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGLlaGOUxcfSuKQMF3EfyV7LKYslW4N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
